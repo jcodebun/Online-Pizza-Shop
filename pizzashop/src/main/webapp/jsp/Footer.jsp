@@ -36,7 +36,7 @@
   <script src="/pizzashop/js/bootstrap-datepicker.js"></script>
   <script src="/pizzashop/js/jquery.timepicker.min.js"></script>
   <script src="/pizzashop/js/scrollax.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=MAPKEY&sensor=false"></script>
   <script src="/pizzashop/js/google-map.js"></script>
   <script src="/pizzashop/js/main.js"></script>
 </body>
